@@ -1,5 +1,5 @@
-Influence Assignment – AI LinkedIn Personal Branding Agent
-📌 Overview
+##Influence Assignment – AI LinkedIn Personal Branding Agent
+#📌 Overview
 This project is an AI-powered LinkedIn content creation and scheduling tool built as part of the Influence OS – AI Intern Project.
 It allows users to research topics, generate engaging LinkedIn posts using AI, preview & edit them, and schedule posts for automatic publishing.
 
