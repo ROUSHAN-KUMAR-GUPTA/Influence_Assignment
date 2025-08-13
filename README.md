@@ -44,42 +44,32 @@ Backend → Render
 Database → MongoDB Atlas
 
 📂 Project Structure
-bash
-Copy
-Edit
+
 Influence_Assignment/
 │── backend/          # Express.js backend
 │── frontend/         # React frontend
 │── README.md         # Project documentation
 
+
 ⚙️ Environment Variables
 Create a .env file in the backend folder and add:
 
-env
-Copy
-Edit
 PORT=5000
 MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/?retryWrites=true&w=majority
 OPENAI_API_KEY=your_openai_api_key
 
 📦 Installation & Setup
 1. Clone the repository
-bash
-Copy
-Edit
+
 git clone https://github.com/<your-username>/Influence_Assignment.git
 cd Influence_Assignment
 2. Setup Backend
-bash
-Copy
-Edit
+
 cd backend
 npm install
 npm start
 3. Setup Frontend
-bash
-Copy
-Edit
+
 cd frontend
 npm install
 npm run dev
